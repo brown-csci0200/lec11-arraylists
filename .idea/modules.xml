@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/lec09-mutability-equality.iml" filepath="$PROJECT_DIR$/lec09-mutability-equality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lec11-arraylists.iml" filepath="$PROJECT_DIR$/lec11-arraylists.iml" />
     </modules>
   </component>
 </project>
